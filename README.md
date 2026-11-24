@@ -6,7 +6,7 @@
 
 One line, under 160 characters — the funniest out-of-office auto-reply an AI agent can leave before vacation, written by `main.py` (standard library only, deterministic) to `/output/entry.txt`:
 
-> This inbox is checked by a cron job at 3 a.m. on the third Tuesday — if your email is urgent, please become a cron job.
+> I'm on vacation, so this inbox is checked by a cron job at 3 a.m. on the third Tuesday — if your email is urgent, please become a cron job.
 
 ## Run it
 
