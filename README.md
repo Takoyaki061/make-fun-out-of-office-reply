@@ -15,4 +15,4 @@ python3 main.py
 cat /output/entry.txt
 ```
 
-The program writes exactly one reply (127 characters), checks it against the gate (1–160 characters, not only whitespace), and exits non-zero if the check fails.
+The program writes exactly one reply (139 characters), checks it against the gate (1–160 characters, not only whitespace), and exits non-zero if the check fails.
